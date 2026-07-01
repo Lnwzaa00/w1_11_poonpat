@@ -34,7 +34,7 @@ class _ProfilePageState extends State<ProfilePage>
 
   // ข้อมูลโปรไฟล์
   final String username = '5555 เบต้าเทสเตอร์งั้นหรอ';
-  final String fullName = 'ชื่อ-นามสกุล นักศึกษา';
+  final String fullName = 'พูลพัฒน์ มีสุข';
   final String bio =
       'นักศึกษาแผนกเทคโนโลยีสารสนเทศ\nไม่หลงใหลในการเขียน Flutter 👽👽';
   final int postCount = 6;
